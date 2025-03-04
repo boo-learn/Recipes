@@ -10,3 +10,4 @@
 - Десерты:
 	- [Банановый хлеб](banana.md)
 	- [Пирог «Зебра»](zebra.md)
+	- [Классическая шарлотка](https://eda.ru/recepty/vypechka-deserty/klassicheskaja-sharlotka-21916)
